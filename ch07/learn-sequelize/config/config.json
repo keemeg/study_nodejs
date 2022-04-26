@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "tilon0401egkim!",
+    "database": "nodejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "tilon0401egkim!",
+    "database": "nodejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "tilon0401egkim!",
+    "database": "nodejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
